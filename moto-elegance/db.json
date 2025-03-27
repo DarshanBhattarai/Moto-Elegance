@@ -1,0 +1,1393 @@
+{
+  "vechicleCatalog": {
+    "Sedan": [
+      {
+        "year": "2024",
+        "name": "Mirai",
+        "tagline": "Zero emissions, infinite style.",
+        "price": "$50,190",
+        "fuelEconomy": "76/71",
+        "fuelType": "Fuel Cell EV",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPGe *",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2025-toyota-mirai-101-67584bea03692.jpg?crop=0.704xw:0.532xh;0.260xw,0.256xh&resize=2048:*",
+        "asShown": "As shown: $59,615 * 67/64 Est. MPGe *"
+      },
+      {
+        "year": "2025",
+        "name": "GR86",
+        "tagline": "86 the limits.",
+        "price": "$30,000",
+        "fuelEconomy": "20/26",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t3.ftcdn.net/jpg/05/86/99/56/360_F_586995646_XN56HcNBEKJSAi2JHnk90tZoTsKUZhvz.jpg",
+        "asShown": "As shown: $35,770 * 20/26 Up to Est. MPG *"
+      },
+      {
+        "year": "2026",
+        "name": "GR Supra",
+        "tagline": "Tuned for the track and road challenges.",
+        "price": "$56,990",
+        "fuelEconomy": "19/27",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Est. MPG *",
+        "image": "https://t4.ftcdn.net/jpg/05/16/56/73/360_F_516567367_WbD9zCAwmEPC3rQJoOXdq8hV5CkVV6Xj.jpg",
+        "asShown": "As shown: $61,720 * 19/27 Est. MPG *"
+      }
+    ],
+    "Hybrid": [
+      {
+        "year": "2024",
+        "name": "RAV4 Hybrid",
+        "tagline": "Efficiency meets adventure.",
+        "price": "$32,590",
+        "fuelEconomy": "41/38",
+        "fuelType": "Hybrid",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t4.ftcdn.net/jpg/05/86/58/57/360_F_586585755_iq72Rc4mvgvKhZI2XjLbfNmOLsTmqLhW.jpg",
+        "asShown": "As shown: $36,720 * 40/36 Est. MPG *"
+      },
+      {
+        "year": "2025",
+        "name": "Camry Hybrid",
+        "tagline": "The hybrid that delivers.",
+        "price": "$28,855",
+        "fuelEconomy": "51/53",
+        "fuelType": "Hybrid",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t3.ftcdn.net/jpg/05/60/11/54/360_F_560115469_mHQtxgONQBFTNAWd0rljUoHbLUwGfmYA.jpg",
+        "asShown": "As shown: $33,425 * 51/53 Est. MPG *"
+      },
+      {
+        "year": "2025",
+        "name": "Prius Prime",
+        "tagline": "Plug in. Power up. Go far.",
+        "price": "$34,450",
+        "fuelEconomy": "127/134",
+        "fuelType": "Plug-in Hybrid",
+        "msrp": "Starting MSRP *",
+        "economy": "MPGe *",
+        "image": "https://t3.ftcdn.net/jpg/05/57/79/28/360_F_557792830_V74NKmmpzZuETXyb1M5xkP6z82QEiJrS.jpg",
+        "asShown": "As shown: $38,970 * 127/134 MPGe *"
+      }
+    ],
+    "EV": [
+      {
+        "year": "2024",
+        "name": "bZ4X",
+        "tagline": "Go beyond zero emissions.",
+        "price": "$43,070",
+        "fuelEconomy": "131/107",
+        "fuelType": "EV",
+        "msrp": "Starting MSRP *",
+        "economy": "City/Hwy EPA-est MPGe *",
+        "image": "https://t4.ftcdn.net/jpg/05/25/33/85/360_F_525338555_LmSQXl4OVr3adL9SgzYTrzEy16jPLi3c.jpg",
+        "asShown": "As shown: $47,720 * 131/107 EPA-est MPGe *"
+      },
+      {
+        "year": "2025",
+        "name": "Mirai",
+        "tagline": "Zero emissions, infinite style.",
+        "price": "$50,190",
+        "fuelEconomy": "76/71",
+        "fuelType": "Fuel Cell EV",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPGe *",
+        "image": "https://t3.ftcdn.net/jpg/04/23/23/16/360_F_423231611_CWuIk59cBoaANN3r6SUvIao7AwernZmp.jpg",
+        "asShown": "As shown: $59,615 * 67/64 Est. MPGe *"
+      },
+      {
+        "year": "2025",
+        "name": "bZ3X",
+        "tagline": "Electric for everyone.",
+        "price": "$38,800",
+        "fuelEconomy": "145/127",
+        "fuelType": "EV",
+        "msrp": "Starting MSRP *",
+        "economy": "City/Hwy EPA-est MPGe *",
+        "image": "https://t4.ftcdn.net/jpg/05/60/11/57/360_F_560115749_B8I5J7zkXJyWizyhugyHCQaFEgqFCY07.jpg",
+        "asShown": "As shown: $42,550 * 145/127 EPA-est MPGe *"
+      }
+    ],
+    "SUV": [
+      {
+        "year": "2024",
+        "name": "Highlander",
+        "tagline": "For family adventures.",
+        "price": "$39,120",
+        "fuelEconomy": "22/29",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t3.ftcdn.net/jpg/05/54/97/32/360_F_554973219_NS3rVYnlOI8TxDHXmUqwBdP6gMJZyKrN.jpg",
+        "asShown": "As shown: $52,320 * 21/28 Est. MPG *"
+      },
+      {
+        "year": "2025",
+        "name": "RAV4",
+        "tagline": "Ready for what you've got.",
+        "price": "$28,475",
+        "fuelEconomy": "27/35",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t4.ftcdn.net/jpg/05/25/34/15/360_F_525341555_bQWtx8jDvYBIFKRZLQ8EemBF8KCvZRzN.jpg",
+        "asShown": "As shown: $37,205 * 27/34 Est. MPG *"
+      },
+      {
+        "year": "2025",
+        "name": "4Runner",
+        "tagline": "Go beyond the pavement.",
+        "price": "$40,475",
+        "fuelEconomy": "21/25",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t4.ftcdn.net/jpg/05/86/58/35/360_F_586583582_PUlJShHjebtVzShC01WNQWdRGKBbFqwQ.jpg",
+        "asShown": "As shown: $54,565 * 19/23 Est. MPG *"
+      }
+    ],
+    "Truck": [
+      {
+        "year": "2024",
+        "name": "Tacoma",
+        "tagline": "Ready for any trail.",
+        "price": "$31,500",
+        "fuelEconomy": "19/23",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t3.ftcdn.net/jpg/05/57/79/36/360_F_557793656_6TxrABvGCqZvYpUbPfAb9cQ6MKWuANNY.jpg",
+        "asShown": "As shown: $47,690 * 18/22 Est. MPG *"
+      },
+      {
+        "year": "2025",
+        "name": "Tundra",
+        "tagline": "Built to lead the way.",
+        "price": "$39,965",
+        "fuelEconomy": "18/24",
+        "fuelType": "",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t4.ftcdn.net/jpg/05/16/56/85/360_F_516568590_7fhqG79Kg2u7yZNBc4nup9j5L1SBunOP.jpg",
+        "asShown": "As shown: $58,520 * 17/22 Est. MPG *"
+      },
+      {
+        "year": "2024",
+        "name": "Tacoma Hybrid",
+        "tagline": "Powerful efficiency.",
+        "price": "$42,500",
+        "fuelEconomy": "23/25",
+        "fuelType": "Hybrid",
+        "msrp": "Starting MSRP *",
+        "economy": "Up to Est. MPG *",
+        "image": "https://t3.ftcdn.net/jpg/05/60/11/58/360_F_560115817_uxHONJbQcM7jjpB7ePbSvzMqNnF7rlXd.jpg",
+        "asShown": "As shown: $49,890 * 23/25 Est. MPG *"
+      }
+    ]
+  },
+
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Michael Johnson",
+      "avatar": null,
+      "vehicle": "2023 Honda Accord Hybrid",
+      "carImage": "https://www.cnet.com/a/img/resize/c770348a7a4c39549cab267c012a9e5111dd7242/hub/2022/11/09/34765dfd-4ef0-4f55-9c2a-80d943f97715/honda-accord-hybrid-2023-739229.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "rating": 5,
+      "title": "Best Car Buying Experience Ever",
+      "content": "The comparison tools on this site helped me make an informed decision. I ended up with the perfect car for my needs and budget. The process was smooth from start to finish.",
+      "verified": true,
+      "date": "2024-09-15"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Williams",
+      "avatar": null,
+      "vehicle": "2024 Toyota RAV4",
+      "carImage": "https://img.sm360.ca/images/article/dilawri-group-of-companies/124209//exterior-31705410075702.jpg",
+      "rating": 4,
+      "title": "Great platform with detailed comparisons",
+      "content": "I was torn between several SUVs but the side-by-side comparison feature made it so easy to see the differences. The only reason I'm not giving 5 stars is because I wish there were more user photos.",
+      "verified": true,
+      "date": "2024-08-22"
+    },
+    {
+      "id": 3,
+      "name": "David Chen",
+      "avatar": null,
+      "vehicle": "2023 Tesla Model Y",
+      "carImage": "https://www.motortrend.com/uploads/2023/08/017-2023-Tesla-Model-Y-Long-Range-front-three-quarters-in-motion.jpg",
+      "rating": 5,
+      "title": "Perfect for EV research",
+      "content": "This site has the most comprehensive EV information I've found anywhere. The range estimates and charging network details were spot on. Highly recommend for anyone looking at electric vehicles.",
+      "verified": true,
+      "date": "2024-09-02"
+    },
+    {
+      "id": 4,
+      "name": "Emily Rodriguez",
+      "avatar": null,
+      "vehicle": "2024 Ford Mustang Mach-E",
+      "carImage": "/api/placeholder/600/400",
+      "rating": 4.5,
+      "title": "Helpful customer service",
+      "content": "When I had questions about the comparison data, customer service was quick to respond and extremely helpful. The site itself is intuitive and provides detailed specs that helped me choose my Mach-E.",
+      "verified": true,
+      "date": "2024-07-19"
+    },
+    {
+      "id": 5,
+      "name": "Robert Kim",
+      "avatar": null,
+      "vehicle": "2023 Mazda CX-5",
+      "carImage": "/api/placeholder/600/400",
+      "rating": 4,
+      "title": "Good information but could use more filtering options",
+      "content": "I love the depth of information available for each vehicle. The comparison tool is excellent. I just wish there were more ways to filter the results when searching for vehicles.",
+      "verified": false,
+      "date": "2024-08-05"
+    },
+    {
+      "id": 6,
+      "name": "Jennifer Patel",
+      "avatar": null,
+      "vehicle": "2024 Hyundai Tucson Hybrid",
+      "carImage": "/api/placeholder/600/400",
+      "rating": 5,
+      "title": "Made car shopping enjoyable",
+      "content": "I used to dread car shopping but this platform made it actually enjoyable. The user reviews from other owners were particularly helpful in my decision making process.",
+      "verified": true,
+      "date": "2024-09-10"
+    }
+  ],
+
+  "carModels": [
+    {
+      "id": 1,
+      "companyId": 1,
+      "name": "Maruti Suzuki Swift",
+      "logo": "https://www.citypng.com/public/uploads/preview/hd-suzuki-white-logo-transparent-background-701751694773165hhvzwovybw.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1632414187391-7e4097f0de6b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFydXRpJTIwc3V6dWtpfGVufDB8fDB8fHww",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.2L Petrol",
+        "power": "82 bhp",
+        "torque": "113 Nm",
+        "transmission": "5-speed Manual / AMT",
+        "mileage": "21.21 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "268 liters"
+      },
+      "features": {
+        "interior": [
+          "Touchscreen Infotainment",
+          "Automatic Climate Control",
+          "Rear AC Vents"
+        ],
+        "exterior": ["LED Headlamps", "Alloy Wheels", "Body-Colored Bumpers"],
+        "safety": ["Dual Airbags", "ABS with EBD", "Rear Parking Sensors"]
+      },
+      "price": "6.5 - 9.5 Lakh",
+      "colors": ["Pearl Midnight Black", "Solid Fire Red", "Pearl Arctic White"]
+    },
+    {
+      "id": 2,
+      "companyId": 1,
+      "name": "Maruti Suzuki Baleno",
+      "logo": "https://www.citypng.com/public/uploads/preview/hd-suzuki-white-logo-transparent-background-701751694773165hhvzwovybw.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1632414187391-7e4097f0de6b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFydXRpJTIwc3V6dWtpfGVufDB8fDB8fHww",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.2L Dual Jet Petrol",
+        "power": "89 bhp",
+        "torque": "113 Nm",
+        "transmission": "5-speed Manual / CVT",
+        "mileage": "22.35 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "318 liters"
+      },
+      "features": {
+        "interior": [
+          "SmartPlay Pro+ Infotainment",
+          "Heads-Up Display",
+          "Auto-dimming IRVM"
+        ],
+        "exterior": [
+          "LED Projector Headlamps",
+          "16-inch Alloy Wheels",
+          "Chrome Accents"
+        ],
+        "safety": ["6 Airbags", "ESP", "Hill Hold Assist"]
+      },
+      "price": "6.5 - 9.8 Lakh",
+      "colors": ["Nexa Blue", "Pearl Arctic White", "Luxury Brown"]
+    },
+    {
+      "id": 3,
+      "companyId": 2,
+      "name": "Mahindra Thar",
+      "logo": "https://cartell.tv/wp-content/uploads/2016/08/Mahindra-white.png",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg/640px-Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Turbo Petrol / 2.2L Diesel",
+        "power": "150 bhp / 130 bhp",
+        "torque": "320 Nm / 300 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "15.2 km/l (Petrol) / 16.5 km/l (Diesel)",
+        "seatingCapacity": 4,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "Not Applicable"
+      },
+      "features": {
+        "interior": [
+          "7-inch Touchscreen",
+          "Fabric Upholstery",
+          "Adjustable Steering"
+        ],
+        "exterior": ["LED DRLs", "Alloy Wheels", "Removable Hard Top"],
+        "safety": ["Dual Airbags", "ABS with EBD", "Hill Hold Assist"]
+      },
+      "price": "10 - 15 Lakh",
+      "colors": ["Rocky Beige", "Napoli Black", "Aquamarine"]
+    },
+    {
+      "id": 4,
+      "companyId": 2,
+      "name": "Mahindra XUV700",
+      "logo": "https://cartell.tv/wp-content/uploads/2016/08/Mahindra-white.png",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg/640px-Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Turbo Petrol / 2.2L Diesel",
+        "power": "200 bhp / 185 bhp",
+        "torque": "380 Nm / 420 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "14 km/l (Petrol) / 16 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "458 liters"
+      },
+      "features": {
+        "interior": [
+          "Dual 10.25-inch Screens",
+          "Panoramic Sunroof",
+          "Wireless Charging"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "19-inch Alloy Wheels",
+          "AdrenoX Connected Car Tech"
+        ],
+        "safety": ["7 Airbags", "ADAS", "360-degree Camera"]
+      },
+      "price": "13 - 22 Lakh",
+      "colors": ["Midnight Black", "Dazzling Silver", "Red Rage"]
+    },
+    {
+      "id": 5,
+      "companyId": 3,
+      "name": "Tata Nexon",
+      "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c3773cb-5629-4145-b044-4ef6f9090376/dezxm1f-1e987c04-a1b7-4554-a189-ed574a591c68.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljMzc3M2NiLTU2MjktNDE0NS1iMDQ0LTRlZjZmOTA5MDM3NlwvZGV6eG0xZi0xZTk4N2MwNC1hMWI3LTQ1NTQtYTE4OS1lZDU3NGE1OTFjNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pT18TJRr1Nxv_NkBpJ_SH64zchd0aco1BqJkqq991AM",
+      "backgroundImage": "https://images.hindustantimes.com/auto/img/2024/03/04/1600x900/Safari_Dark_Edition_1709536476940_1709536577002.jpg",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.2L Turbo Petrol / 1.5L Diesel",
+        "power": "120 bhp / 110 bhp",
+        "torque": "170 Nm / 260 Nm",
+        "transmission": "6-speed Manual / AMT",
+        "mileage": "17 km/l (Petrol) / 21.5 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "350 liters"
+      },
+      "features": {
+        "interior": [
+          "7-inch Touchscreen",
+          "Automatic Climate Control",
+          "Rear AC Vents"
+        ],
+        "exterior": ["LED DRLs", "16-inch Alloy Wheels", "Rooftop Spoiler"],
+        "safety": ["Dual Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "8 - 14 Lakh",
+      "colors": ["Daytona Grey", "Flame Red", "Purely White"]
+    },
+    {
+      "id": 6,
+      "companyId": 3,
+      "name": "Tata Harrier",
+      "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c3773cb-5629-4145-b044-4ef6f9090376/dezxm1f-1e987c04-a1b7-4554-a189-ed574a591c68.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljMzc3M2NiLTU2MjktNDE0NS1iMDQ0LTRlZjZmOTA5MDM3NlwvZGV6eG0xZi0xZTk4N2MwNC1hMWI3LTQ1NTQtYTE4OS1lZDU3NGE1OTFjNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pT18TJRr1Nxv_NkBpJ_SH64zchd0aco1BqJkqq991AM",
+      "backgroundImage": "https://images.hindustantimes.com/auto/img/2024/03/04/1600x900/Safari_Dark_Edition_1709536476940_1709536577002.jpg",
+      "popular": true,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Diesel",
+        "power": "170 bhp",
+        "torque": "350 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "16.35 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Diesel",
+        "bootSpace": "425 liters"
+      },
+      "features": {
+        "interior": [
+          "8.8-inch Touchscreen",
+          "Panoramic Sunroof",
+          "JBL Audio System"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Connected LED Tail Lamps"
+        ],
+        "safety": ["6 Airbags", "ESP", "Hill Descent Control"]
+      },
+      "price": "15 - 25 Lakh",
+      "colors": ["Calypso Red", "Orcus White", "Ariel Silver"]
+    },
+    {
+      "id": 7,
+      "companyId": 4,
+      "name": "Hyundai Creta",
+      "logo": "https://www.transparentpng.com/download/hyundai/hBFETU-hyundai-logo-background.png",
+      "backgroundImage": "https://images.hindustantimes.com/auto/img/2021/10/13/600x338/Sonata_N_Line_Night_Edition_1634100559661_1634100563946.JPG",
+      "popular": false,
+      "sponsored": true,
+      "specifications": {
+        "engine": "1.5L Petrol / 1.5L Diesel",
+        "power": "115 bhp / 115 bhp",
+        "torque": "144 Nm / 250 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "16.8 km/l (Petrol) / 20.8 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "433 liters"
+      },
+      "features": {
+        "interior": [
+          "10.25-inch Touchscreen",
+          "Ventilated Seats",
+          "Wireless Charging"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "17-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ESC", "Rear Parking Camera"]
+      },
+      "price": "10 - 18 Lakh",
+      "colors": ["Polar White", "Titan Grey", "Deep Forest"]
+    },
+    {
+      "id": 8,
+      "companyId": 4,
+      "name": "Hyundai Venue",
+      "logo": "https://www.transparentpng.com/download/hyundai/hBFETU-hyundai-logo-background.png",
+      "backgroundImage": "https://images.hindustantimes.com/auto/img/2021/10/13/600x338/Sonata_N_Line_Night_Edition_1634100559661_1634100563946.JPG",
+      "popular": false,
+      "sponsored": true,
+      "specifications": {
+        "engine": "1.2L Petrol / 1.5L Diesel",
+        "power": "83 bhp / 100 bhp",
+        "torque": "115 Nm / 240 Nm",
+        "transmission": "5-speed Manual / AMT",
+        "mileage": "18.27 km/l (Petrol) / 23.7 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "350 liters"
+      },
+      "features": {
+        "interior": [
+          "8-inch Touchscreen",
+          "Wireless Charging",
+          "BlueLink Connected Car"
+        ],
+        "exterior": ["LED DRLs", "16-inch Alloy Wheels", "Projector Headlamps"],
+        "safety": ["Dual Airbags", "ABS with EBD", "Rear Parking Sensors"]
+      },
+      "price": "7 - 12 Lakh",
+      "colors": ["Polar White", "Denim Blue", "Fiery Red"]
+    },
+    {
+      "id": 9,
+      "companyId": 5,
+      "name": "Toyota Innova Crysta",
+      "logo": "https://www.freeiconspng.com/uploads/toyota-logo-png-30.png",
+      "backgroundImage": "https://4kwallpapers.com/images/wallpapers/toyota-gr-supra-a90-3840x2160-20244.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.7L Petrol / 2.4L Diesel",
+        "power": "166 bhp / 150 bhp",
+        "torque": "245 Nm / 343 Nm",
+        "transmission": "5-speed Manual / Automatic",
+        "mileage": "11.36 km/l (Petrol) / 13.68 km/l (Diesel)",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "300 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Rear AC Vents"],
+        "exterior": ["LED Headlamps", "17-inch Alloy Wheels", "Chrome Grille"],
+        "safety": ["7 Airbags", "ABS with EBD", "Hill Start Assist"]
+      },
+      "price": "16 - 25 Lakh",
+      "colors": ["Super White", "Silver Metallic", "Grey Metallic"]
+    },
+    {
+      "id": 10,
+      "companyId": 5,
+      "name": "Toyota Fortuner",
+      "logo": "https://www.freeiconspng.com/uploads/toyota-logo-png-30.png",
+      "backgroundImage": "https://4kwallpapers.com/images/wallpapers/toyota-gr-supra-a90-3840x2160-20244.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.7L Petrol / 2.8L Diesel",
+        "power": "166 bhp / 204 bhp",
+        "torque": "245 Nm / 500 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "10 km/l (Petrol) / 14.24 km/l (Diesel)",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "296 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Dual-zone AC"],
+        "exterior": ["LED Headlamps", "18-inch Alloy Wheels", "Power Tailgate"],
+        "safety": ["7 Airbags", "ABS with EBD", "Hill Descent Control"]
+      },
+      "price": "30 - 45 Lakh",
+      "colors": ["Super White", "Grey Metallic", "Attitude Black"]
+    },
+    {
+      "id": 11,
+      "companyId": 6,
+      "name": "Kia Seltos",
+      "logo": "https://freelogopng.com/images/all_img/1686590298kia-logo-white.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1625037669052-7e033716f325?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8a2lhfGVufDB8fDB8fHww",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.5L Petrol / 1.5L Diesel",
+        "power": "115 bhp / 115 bhp",
+        "torque": "144 Nm / 250 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "16.5 km/l (Petrol) / 20.8 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "433 liters"
+      },
+      "features": {
+        "interior": [
+          "10.25-inch Touchscreen",
+          "Bose Audio System",
+          "Ventilated Seats"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "17-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ESC", "Rear Parking Camera"]
+      },
+      "price": "10 - 18 Lakh",
+      "colors": ["Sparkling Silver", "Aurora Black Pearl", "Intense Red"]
+    },
+    {
+      "id": 12,
+      "companyId": 6,
+      "name": "Kia Carnival",
+      "logo": "https://freelogopng.com/images/all_img/1686590298kia-logo-white.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1625037669052-7e033716f325?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8a2lhfGVufDB8fDB8fHww",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.2L Diesel",
+        "power": "200 bhp",
+        "torque": "440 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "13.9 km/l",
+        "seatingCapacity": 7,
+        "fuelType": "Diesel",
+        "bootSpace": "540 liters"
+      },
+      "features": {
+        "interior": ["10.1-inch Touchscreen", "Leather Seats", "Dual Sunroof"],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Power Sliding Doors"
+        ],
+        "safety": ["6 Airbags", "ESC", "360-degree Camera"]
+      },
+      "price": "25 - 35 Lakh",
+      "colors": ["Aurora Black Pearl", "Gravity Grey", "Silky Silver"]
+    },
+    {
+      "id": 13,
+      "companyId": 7,
+      "name": "Mercedes-Benz C-Class",
+      "logo": "https://pngimg.com/d/mercedes_logos_PNG1.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/281/548/978/mercedes-benz-amg-gt-car-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol",
+        "power": "255 bhp",
+        "torque": "370 Nm",
+        "transmission": "9-speed Automatic",
+        "mileage": "12.06 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "455 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Upholstery",
+          "Ambient Lighting"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["7 Airbags", "ABS with EBD", "Parking Assist"]
+      },
+      "price": "55 - 60 Lakh",
+      "colors": ["Polar White", "Obsidian Black", "Iridium Silver"]
+    },
+    {
+      "id": 14,
+      "companyId": 7,
+      "name": "Mercedes-Benz GLE",
+      "logo": "https://pngimg.com/d/mercedes_logos_PNG1.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/281/548/978/mercedes-benz-amg-gt-car-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol / 3.0L Diesel",
+        "power": "255 bhp / 270 bhp",
+        "torque": "370 Nm / 600 Nm",
+        "transmission": "9-speed Automatic",
+        "mileage": "11.2 km/l (Petrol) / 13.5 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "630 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Seats",
+          "4-zone Climate Control"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "20-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["9 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "80 - 90 Lakh",
+      "colors": ["Obsidian Black", "Polar White", "Selenite Grey"]
+    },
+    {
+      "id": 15,
+      "companyId": 8,
+      "name": "BMW 3 Series",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/04/BMW-Logo.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/28/734/377/car-tuning-bmw-black-wallpaper-thumb.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol",
+        "power": "255 bhp",
+        "torque": "400 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "15.3 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "480 liters"
+      },
+      "features": {
+        "interior": [
+          "10.25-inch Touchscreen",
+          "Leather Upholstery",
+          "Ambient Lighting"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "Parking Assist"]
+      },
+      "price": "45 - 55 Lakh",
+      "colors": ["Alpine White", "Black Sapphire", "Mineral Grey"]
+    },
+    {
+      "id": 16,
+      "companyId": 8,
+      "name": "BMW X5",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/04/BMW-Logo.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/28/734/377/car-tuning-bmw-black-wallpaper-thumb.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "3.0L Petrol / 3.0L Diesel",
+        "power": "340 bhp / 265 bhp",
+        "torque": "450 Nm / 620 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "11.2 km/l (Petrol) / 13.8 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "650 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Seats",
+          "4-zone Climate Control"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "20-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "75 - 85 Lakh",
+      "colors": ["Arctic Grey", "Black Sapphire", "Mineral White"]
+    },
+    {
+      "id": 17,
+      "companyId": 9,
+      "name": "Skoda Octavia",
+      "logo": "https://logos-world.net/wp-content/uploads/2022/09/Skoda-logo.png",
+      "backgroundImage": "https://cdn.suwalls.com/wallpapers/cars/2013-white-skoda-rapid-front-view-51136-1920x1080.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol",
+        "power": "190 bhp",
+        "torque": "320 Nm",
+        "transmission": "7-speed DSG",
+        "mileage": "15.81 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "600 liters"
+      },
+      "features": {
+        "interior": [
+          "10-inch Touchscreen",
+          "Leather Seats",
+          "Ambient Lighting"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "Parking Assist"]
+      },
+      "price": "25 - 30 Lakh",
+      "colors": ["Magic Black", "Candy White", "Race Blue"]
+    },
+    {
+      "id": 18,
+      "companyId": 9,
+      "name": "Skoda Kodiaq",
+      "logo": "https://logos-world.net/wp-content/uploads/2022/09/Skoda-logo.png",
+      "backgroundImage": "https://cdn.suwalls.com/wallpapers/cars/2013-white-skoda-rapid-front-view-51136-1920x1080.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol / 2.0L Diesel",
+        "power": "190 bhp / 150 bhp",
+        "torque": "320 Nm / 340 Nm",
+        "transmission": "7-speed DSG",
+        "mileage": "14.1 km/l (Petrol) / 16.25 km/l (Diesel)",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "270 liters"
+      },
+      "features": {
+        "interior": [
+          "9.2-inch Touchscreen",
+          "Leather Seats",
+          "3-zone Climate Control"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "19-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["9 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "35 - 40 Lakh",
+      "colors": ["Magic Black", "Lava Blue", "Moon White"]
+    },
+    {
+      "id": 19,
+      "companyId": 10,
+      "name": "Land Rover Defender",
+      "logo": "https://www.pngplay.com/wp-content/uploads/13/Land-Rover-Logo-Download-Free-PNG.png",
+      "backgroundImage": "https://picfiles.alphacoders.com/534/534560.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol / 3.0L Diesel",
+        "power": "300 bhp / 250 bhp",
+        "torque": "400 Nm / 600 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "10.5 km/l (Petrol) / 12.8 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "231 liters"
+      },
+      "features": {
+        "interior": [
+          "10-inch Touchscreen",
+          "Leather Seats",
+          "Meridian Sound System"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "20-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "Terrain Response System"]
+      },
+      "price": "80 - 90 Lakh",
+      "colors": ["Santorini Black", "Fuji White", "Silicon Silver"]
+    },
+    {
+      "id": 20,
+      "companyId": 10,
+      "name": "Land Rover Discovery",
+      "logo": "https://www.pngplay.com/wp-content/uploads/13/Land-Rover-Logo-Download-Free-PNG.png",
+      "backgroundImage": "https://picfiles.alphacoders.com/534/534560.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol / 3.0L Diesel",
+        "power": "300 bhp / 250 bhp",
+        "torque": "400 Nm / 600 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "10.2 km/l (Petrol) / 12.5 km/l (Diesel)",
+        "seatingCapacity": 7,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "258 liters"
+      },
+      "features": {
+        "interior": [
+          "10-inch Touchscreen",
+          "Leather Seats",
+          "4-zone Climate Control"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "21-inch Alloy Wheels",
+          "Panoramic Sunroof"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "Terrain Response System"]
+      },
+      "price": "85 - 95 Lakh",
+      "colors": ["Santorini Black", "Fuji White", "Silicon Silver"]
+    },
+    {
+      "id": 21,
+      "companyId": 11,
+      "name": "Honda City",
+      "logo": "https://www.freeiconspng.com/thumbs/honda-logo-png/honda-logo-transparent-background-0.jpg",
+      "backgroundImage": "https://wallpapers.com/images/hd/honda-civic-type-r-pq5ults3p6ps0s53.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.5L Petrol",
+        "power": "121 bhp",
+        "torque": "145 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "17.8 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "506 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Sunroof"],
+        "exterior": ["LED Headlamps", "16-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "11 - 15 Lakh",
+      "colors": [
+        "Golden Brown",
+        "Platinum White Pearl",
+        "Lunar Silver Metallic"
+      ]
+    },
+    {
+      "id": 22,
+      "companyId": 11,
+      "name": "Honda Civic",
+      "logo": "https://www.freeiconspng.com/thumbs/honda-logo-png/honda-logo-transparent-background-0.jpg",
+      "backgroundImage": "https://wallpapers.com/images/hd/honda-civic-type-r-pq5ults3p6ps0s53.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.8L Petrol",
+        "power": "141 bhp",
+        "torque": "174 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "16.5 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "430 liters"
+      },
+      "features": {
+        "interior": ["7-inch Touchscreen", "Leather Seats", "Sunroof"],
+        "exterior": ["LED Headlamps", "17-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "18 - 22 Lakh",
+      "colors": ["Radiant Red", "Lunar Silver Metallic", "Golden Brown"]
+    },
+    {
+      "id": 23,
+      "companyId": 12,
+      "name": "MG Hector",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mg_logo.svg/512px-Mg_logo.svg.png",
+      "backgroundImage": "https://images.carandbike.com/cms/MG_GLOSTER_BLACKSTORM_ACTION_3_72673a20de.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.5L Petrol / 2.0L Diesel",
+        "power": "143 bhp / 170 bhp",
+        "torque": "250 Nm / 350 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "14.16 km/l (Petrol) / 16.6 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "587 liters"
+      },
+      "features": {
+        "interior": [
+          "10.4-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "17-inch Alloy Wheels",
+          "Connected LED Tail Lamps"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "13 - 20 Lakh",
+      "colors": ["Candy White", "Starry Black", "Burgundy Red"]
+    },
+    {
+      "id": 24,
+      "companyId": 12,
+      "name": "MG Gloster",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mg_logo.svg/512px-Mg_logo.svg.png",
+      "backgroundImage": "https://images.carandbike.com/cms/MG_GLOSTER_BLACKSTORM_ACTION_3_72673a20de.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Diesel",
+        "power": "218 bhp",
+        "torque": "480 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "12.35 km/l",
+        "seatingCapacity": 6,
+        "fuelType": "Diesel",
+        "bootSpace": "330 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "19-inch Alloy Wheels",
+          "Connected LED Tail Lamps"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "30 - 35 Lakh",
+      "colors": ["Metal Black", "Warm White", "Canyon Orange"]
+    },
+    {
+      "id": 25,
+      "companyId": 13,
+      "name": "Volkswagen Polo",
+      "logo": "https://companieslogo.com/img/orig/VOW3.DE.D-df60d905.png?t=1720244494",
+      "backgroundImage": "https://wallpapers.com/images/hd/volkswagen-passat-cc-golden-mist-rurglxgba3yuguxj.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.0L Petrol",
+        "power": "110 bhp",
+        "torque": "175 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "18.78 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "351 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Ambient Lighting"],
+        "exterior": ["LED Headlamps", "16-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "6 - 10 Lakh",
+      "colors": ["Reflex Silver", "Deep Black Pearl", "Tornado Red"]
+    },
+    {
+      "id": 26,
+      "companyId": 13,
+      "name": "Volkswagen Tiguan",
+      "logo": "https://companieslogo.com/img/orig/VOW3.DE.D-df60d905.png?t=1720244494",
+      "backgroundImage": "https://wallpapers.com/images/hd/volkswagen-passat-cc-golden-mist-rurglxgba3yuguxj.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Diesel",
+        "power": "150 bhp",
+        "torque": "340 Nm",
+        "transmission": "7-speed DSG",
+        "mileage": "16.44 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Diesel",
+        "bootSpace": "615 liters"
+      },
+      "features": {
+        "interior": [
+          "10.25-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": ["LED Headlamps", "18-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "28 - 32 Lakh",
+      "colors": ["Deep Black Pearl", "Oryx White", "Reflex Silver"]
+    },
+    {
+      "id": 27,
+      "companyId": 14,
+      "name": "Renault Kiger",
+      "logo": "https://blis.com/wp-content/uploads/2019/08/Renault-logo-case-study-page.png",
+      "backgroundImage": "https://wallpapers.com/images/hd/black-renault-megane-j58e0l3g5qd84vms.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.0L Petrol",
+        "power": "72 bhp / 100 bhp",
+        "torque": "96 Nm / 160 Nm",
+        "transmission": "5-speed Manual / CVT",
+        "mileage": "20.5 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "405 liters"
+      },
+      "features": {
+        "interior": [
+          "8-inch Touchscreen",
+          "Wireless Charging",
+          "Ambient Lighting"
+        ],
+        "exterior": ["LED DRLs", "16-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["4 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "6 - 10 Lakh",
+      "colors": ["Radiant Red", "Moonlight Silver", "Ice Cool White"]
+    },
+    {
+      "id": 28,
+      "companyId": 14,
+      "name": "Renault Duster",
+      "logo": "https://blis.com/wp-content/uploads/2019/08/Renault-logo-case-study-page.png",
+      "backgroundImage": "https://wallpapers.com/images/hd/black-renault-megane-j58e0l3g5qd84vms.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.5L Petrol / 1.5L Diesel",
+        "power": "106 bhp / 115 bhp",
+        "torque": "142 Nm / 245 Nm",
+        "transmission": "6-speed Manual / CVT",
+        "mileage": "16.42 km/l (Petrol) / 19.87 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "475 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Ambient Lighting"],
+        "exterior": ["LED DRLs", "16-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["4 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "9 - 13 Lakh",
+      "colors": ["Moonlight Silver", "Outback Bronze", "Ice Cool White"]
+    },
+    {
+      "id": 29,
+      "companyId": 15,
+      "name": "Jeep Compass",
+      "logo": "https://www.pngplay.com/wp-content/uploads/13/Jeep-Logo-Transparent-File.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/906/753/110/jeep-wrangler-jeep-car-vehicle-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "1.4L Petrol / 2.0L Diesel",
+        "power": "163 bhp / 173 bhp",
+        "torque": "250 Nm / 350 Nm",
+        "transmission": "6-speed Manual / Automatic",
+        "mileage": "14.1 km/l (Petrol) / 17.1 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "438 liters"
+      },
+      "features": {
+        "interior": [
+          "10.1-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": ["LED Headlamps", "18-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "18 - 25 Lakh",
+      "colors": ["Exotic Red", "Brilliant Black", "Minimal Grey"]
+    },
+    {
+      "id": 30,
+      "companyId": 15,
+      "name": "Jeep Wrangler",
+      "logo": "https://www.pngplay.com/wp-content/uploads/13/Jeep-Logo-Transparent-File.png",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/906/753/110/jeep-wrangler-jeep-car-vehicle-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol",
+        "power": "268 bhp",
+        "torque": "400 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "10.5 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "270 liters"
+      },
+      "features": {
+        "interior": [
+          "8.4-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": [
+          "LED Headlamps",
+          "18-inch Alloy Wheels",
+          "Removable Hard Top"
+        ],
+        "safety": ["6 Airbags", "ABS with EBD", "Hill Descent Control"]
+      },
+      "price": "60 - 65 Lakh",
+      "colors": ["Firecracker Red", "Bright White", "Granite Crystal"]
+    },
+    {
+      "id": 31,
+      "companyId": 16,
+      "name": "Audi Q5",
+      "logo": "https://freelogopng.com/images/all_img/1686497099audi-logo-white-png.png",
+      "backgroundImage": "https://wallpapers.com/images/hd/black-audi-r8-v10-90nf168iy67arnon.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol / 2.0L Diesel",
+        "power": "245 bhp / 190 bhp",
+        "torque": "370 Nm / 400 Nm",
+        "transmission": "7-speed S tronic",
+        "mileage": "12.06 km/l (Petrol) / 14.8 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "550 liters"
+      },
+      "features": {
+        "interior": [
+          "10.1-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": ["LED Headlamps", "19-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "60 - 65 Lakh",
+      "colors": ["Glacier White", "Mythos Black", "Daytona Grey"]
+    },
+    {
+      "id": 32,
+      "companyId": 16,
+      "name": "Audi A4",
+      "logo": "https://freelogopng.com/images/all_img/1686497099audi-logo-white-png.png",
+      "backgroundImage": "https://wallpapers.com/images/hd/black-audi-r8-v10-90nf168iy67arnon.jpg",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.0L Petrol",
+        "power": "190 bhp",
+        "torque": "320 Nm",
+        "transmission": "7-speed S tronic",
+        "mileage": "17.42 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "460 liters"
+      },
+      "features": {
+        "interior": [
+          "10.1-inch Touchscreen",
+          "Leather Seats",
+          "Ambient Lighting"
+        ],
+        "exterior": ["LED Headlamps", "18-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "45 - 50 Lakh",
+      "colors": ["Glacier White", "Mythos Black", "Daytona Grey"]
+    },
+    {
+      "id": 33,
+      "companyId": 17,
+      "name": "Lexus ES",
+      "logo": "https://pngimg.com/d/lexus_PNG22.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1577496549804-8b05f1f67338?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGV4dXN8ZW58MHx8MHx8fDA%3D",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "2.5L Petrol",
+        "power": "215 bhp",
+        "torque": "221 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "16.1 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "454 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": ["LED Headlamps", "18-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["10 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "55 - 60 Lakh",
+      "colors": ["Sonic Quartz", "Graphite Black", "White Nova"]
+    },
+    {
+      "id": 34,
+      "companyId": 17,
+      "name": "Lexus RX",
+      "logo": "https://pngimg.com/d/lexus_PNG22.png",
+      "backgroundImage": "https://images.unsplash.com/photo-1577496549804-8b05f1f67338?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGV4dXN8ZW58MHx8MHx8fDA%3D",
+      "popular": false,
+      "sponsored": false,
+      "specifications": {
+        "engine": "3.5L Petrol",
+        "power": "295 bhp",
+        "torque": "362 Nm",
+        "transmission": "8-speed Automatic",
+        "mileage": "13.1 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "453 liters"
+      },
+      "features": {
+        "interior": [
+          "12.3-inch Touchscreen",
+          "Leather Seats",
+          "Panoramic Sunroof"
+        ],
+        "exterior": ["LED Headlamps", "20-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["10 Airbags", "ABS with EBD", "360-degree Camera"]
+      },
+      "price": "90 - 95 Lakh",
+      "colors": ["Sonic Quartz", "Graphite Black", "White Nova"]
+    },
+    {
+      "id": 35,
+      "companyId": 18,
+      "name": "Nissan Magnite",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/nissan-6-logo-svg-vector.svg",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/626/424/23/nissan-nissan-gt-r-black-car-car-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": true,
+      "specifications": {
+        "engine": "1.0L Petrol",
+        "power": "72 bhp / 100 bhp",
+        "torque": "96 Nm / 160 Nm",
+        "transmission": "5-speed Manual / CVT",
+        "mileage": "20 km/l",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol",
+        "bootSpace": "336 liters"
+      },
+      "features": {
+        "interior": [
+          "8-inch Touchscreen",
+          "Wireless Charging",
+          "Ambient Lighting"
+        ],
+        "exterior": ["LED DRLs", "16-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["4 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "6 - 10 Lakh",
+      "colors": ["Flame Orange", "Onyx Black", "Sandstone Brown"]
+    },
+    {
+      "id": 36,
+      "companyId": 18,
+      "name": "Nissan Kicks",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/nissan-6-logo-svg-vector.svg",
+      "backgroundImage": "https://c4.wallpaperflare.com/wallpaper/626/424/23/nissan-nissan-gt-r-black-car-car-wallpaper-preview.jpg",
+      "popular": false,
+      "sponsored": true,
+      "specifications": {
+        "engine": "1.5L Petrol / 1.5L Diesel",
+        "power": "106 bhp / 110 bhp",
+        "torque": "142 Nm / 240 Nm",
+        "transmission": "5-speed Manual / CVT",
+        "mileage": "16.5 km/l (Petrol) / 20.5 km/l (Diesel)",
+        "seatingCapacity": 5,
+        "fuelType": "Petrol / Diesel",
+        "bootSpace": "400 liters"
+      },
+      "features": {
+        "interior": ["8-inch Touchscreen", "Leather Seats", "Ambient Lighting"],
+        "exterior": ["LED DRLs", "17-inch Alloy Wheels", "Chrome Accents"],
+        "safety": ["6 Airbags", "ABS with EBD", "Rear Parking Camera"]
+      },
+      "price": "10 - 15 Lakh",
+      "colors": ["Flame Orange", "Onyx Black", "Sandstone Brown"]
+    }
+  ]
+}
+  

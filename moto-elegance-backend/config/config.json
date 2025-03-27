@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "338452",
+    "database": "moto_elegance_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "postgres",
+    "password": "338452",
+    "database": "moto_elegance_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "postgres",
+    "password": "338452",
+    "database": "moto_elegance_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
